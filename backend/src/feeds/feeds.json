@@ -1,0 +1,339 @@
+[
+  {
+    "id": "openai",
+    "name": "OpenAI",
+    "url": "https://openai.com/news/rss.xml",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "url": "https://rsshub.bestblogs.dev/anthropic/news",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "google_ai",
+    "name": "Google AI Blog",
+    "url": "https://blog.google/technology/ai/rss/",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "deepmind",
+    "name": "Google DeepMind",
+    "url": "https://deepmind.google/discover/blog/rss.xml",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "meta_ai",
+    "name": "Meta AI",
+    "url": "https://rsshub.bestblogs.dev/meta/ai/blog",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "mistral",
+    "name": "Mistral AI",
+    "url": "https://mistral.ai/news/rss.xml",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "cohere",
+    "name": "Cohere",
+    "url": "https://cohere.com/blog/rss.xml",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "url": "https://www.perplexity.ai/hub/rss.xml",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "stability",
+    "name": "Stability AI",
+    "url": "https://stability.ai/news?format=rss",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "github",
+    "name": "GitHub Blog",
+    "url": "https://github.blog/feed/",
+    "category": "Programming",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "gitlab",
+    "name": "GitLab Blog",
+    "url": "https://about.gitlab.com/atom.xml",
+    "category": "Programming",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "url": "https://www.docker.com/blog/feed/",
+    "category": "Programming",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "url": "https://kubernetes.io/feed.xml",
+    "category": "Programming",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "cloudflare",
+    "name": "Cloudflare",
+    "url": "https://blog.cloudflare.com/rss/",
+    "category": "Programming",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "url": "https://vercel.com/atom",
+    "category": "Programming",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "mozilla",
+    "name": "Mozilla Hacks",
+    "url": "https://hacks.mozilla.org/feed/",
+    "category": "Programming",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "chrome",
+    "name": "Chrome Developers",
+    "url": "https://developer.chrome.com/feeds/blog.xml",
+    "category": "Programming",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "pytorch",
+    "name": "PyTorch",
+    "url": "https://pytorch.org/feed.xml",
+    "category": "Machine Learning",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "tensorflow",
+    "name": "TensorFlow",
+    "url": "https://blog.tensorflow.org/feeds/posts/default",
+    "category": "Machine Learning",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "wandb",
+    "name": "Weights & Biases",
+    "url": "https://wandb.ai/site/rss.xml",
+    "category": "Machine Learning",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "langchain",
+    "name": "LangChain",
+    "url": "https://blog.langchain.dev/rss/",
+    "category": "Machine Learning",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "llamaindex",
+    "name": "LlamaIndex",
+    "url": "https://www.llamaindex.ai/blog/rss.xml",
+    "category": "Machine Learning",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "ibm_quantum",
+    "name": "IBM Quantum",
+    "url": "https://www.ibm.com/quantum/blog/rss",
+    "category": "Quantum",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "qiskit",
+    "name": "Qiskit",
+    "url": "https://medium.com/feed/qiskit",
+    "category": "Quantum",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "google_quantum",
+    "name": "Google Quantum AI",
+    "url": "https://quantumai.google/feed.xml",
+    "category": "Quantum",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "xanadu",
+    "name": "Xanadu",
+    "url": "https://www.xanadu.ai/blog/rss.xml",
+    "category": "Quantum",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "ionq",
+    "name": "IonQ",
+    "url": "https://ionq.com/news/rss.xml",
+    "category": "Quantum",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "hackernews",
+    "name": "The Hacker News",
+    "url": "https://feeds.feedburner.com/TheHackersNews",
+    "category": "Security",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "bleepingcomputer",
+    "name": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/feed/",
+    "category": "Security",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "ubuntu",
+    "name": "Ubuntu",
+    "url": "https://ubuntu.com/blog/feed",
+    "category": "Linux",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "arxiv_ai",
+    "name": "arXiv AI",
+    "url": "https://rss.arxiv.org/rss/cs.AI",
+    "category": "Research",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "nvidia_ai",
+    "name": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/feed/",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "simon_willison",
+    "name": "Simon Willison's Weblog",
+    "url": "https://simonwillison.net/atom/everything/",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "aws_ml",
+    "name": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "Machine Learning",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "lilian_weng",
+    "name": "Lil'Log (Lilian Weng)",
+    "url": "https://lilianweng.github.io/index.xml",
+    "category": "Research",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "real_python",
+    "name": "Real Python",
+    "url": "https://realpython.com/atom.xml",
+    "category": "Programming",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "martin_fowler",
+    "name": "Martin Fowler",
+    "url": "https://martinfowler.com/feed.atom",
+    "category": "Programming",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "krebs_security",
+    "name": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/feed/",
+    "category": "Security",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "ars_technica",
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "category": "Tech News",
+    "language": "en",
+    "enabled": true
+  },
+  {
+    "id": "jay_alammar",
+    "name": "Jay Alammar",
+    "url": "https://jalammar.github.io/feed.xml",
+    "category": "Machine Learning",
+    "language": "en",
+    "enabled": true
+  }
+  ,
+{
+    "id": "om parhad blog",
+    "name": "Om Parhad",
+    "url": "https://omparhad.code.blog/feed/",
+    "category": "AI",
+    "language": "en",
+    "enabled": true
+}
+]
