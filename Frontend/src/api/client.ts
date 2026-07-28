@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://pulse-r807.onrender.com/api,
   timeout: 10000,
 });
